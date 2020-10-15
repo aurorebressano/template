@@ -1,0 +1,1 @@
+ScrollReveal().reveal(".intro", {delay: 500, duration: 2000});
